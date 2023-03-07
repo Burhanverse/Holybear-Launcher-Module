@@ -5,7 +5,9 @@ Miui Launcher mod
 HOLYBEAR LAUNCHER MAGISK MODULE
 
 Tested on miui12.5 and miui13. 
-Note : The v2-beta-release is not tested yet
+
+Note : The v2-beta-release is not tested yet.
+
 ABOUT :-
 
 Holybear launcher is a miui launcher mod based on [kashi](https://t.me/kashis_cringey_stuffs) miui launcher mod.
