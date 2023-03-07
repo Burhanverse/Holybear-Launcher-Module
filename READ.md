@@ -4,7 +4,7 @@ Miui Launcher mod
 ------------------
 HOLYBEAR LAUNCHER MAGISK MODULE
 
-Tested on miui12.5 and miui13. 
+The V1 build is tested on miui12.5 and miui13. 
 
 Note : The v2-beta-release is not tested yet.
 
