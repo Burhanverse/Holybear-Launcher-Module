@@ -8,5 +8,5 @@ Tested on miui12.5 and miui13.
 
 ABOUT :-
 
-Holybear launcher is a miui launcher mod based on https://t.me/kashis_cringey_stuffs miui launcher mod.
-I don't make or mod the apk the mod apk is made by https://t.me/HolyBearHome
+Holybear launcher is a miui launcher mod based on [kashi](https://t.me/kashis_cringey_stuffs) miui launcher mod.
+I don't make or mod the apk the mod apk is made by [HolyBearHome](https://t.me/HolyBearHome)
